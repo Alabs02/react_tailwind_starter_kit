@@ -1,0 +1,18 @@
+.password-container {
+  /* border: 1px solid blue; */
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.input-append {
+  position: absolute;
+  right: 1rem;
+  bottom: .75rem;
+
+  cursor: pointer;
+}
+
+.input-password {
+  padding-right: 2.5rem;
+}
